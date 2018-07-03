@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.6116aff91e6fc99412d7501537c59c70.js"
+  "/precache-manifest.b0a79c1f833923c41b82716fcd945aa5.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "Kangen"});
